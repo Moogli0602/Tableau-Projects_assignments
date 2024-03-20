@@ -3,7 +3,7 @@
 
 # Welcome to Tableau Practice Projects Repository
 
-Greetings and welcome to the Tableau Practice Projects Repository! Here, you'll find a curated assortment of Tableau projects meticulously crafted to refine my skills and delve into diverse analytical realms. Each project is meticulously designed to spotlight different facets of data visualization, analysis, and storytelling within Tableau.
+Greetings and welcome to the Tableau Practice Projects Repository! Here, you'll find Tableau projects meticulously crafted to refine my skills into diverse analytical realms. Each project is designed to spotlight the different aspect of data visualization, analysis, and storytelling within Tableau.
 
 ## Projects Showcase:
 
