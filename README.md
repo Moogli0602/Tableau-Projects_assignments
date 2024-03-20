@@ -33,7 +33,7 @@ Continue to expand this repository with additional projects as you work on new T
 
 ## How to Use:
 
-1. **Clone this repository** to your local machine.
+1. **Clone this repository [https://github.com/Moogli0602/Tableau-Projects_assignments]** to your local machine.
 2. **Open the Tableau workbook** (.twb or .twbx file) associated with the project you want to explore.
 3. **Connect the workbook** to your data source or use the sample data provided.
 4. **Interact with the dashboards, filters, and parameters** to explore the visualizations and gain insights.
